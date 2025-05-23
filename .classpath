@@ -6,9 +6,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry excluding="group5taskmanager/" kind="src" path="src"/>
-	<classpathentry kind="src" path="src/group5taskmanager"/>
-	<classpathentry kind="lib" path="src/lib/opencsv-5.9.jar"/>
-	<classpathentry kind="lib" path="src/lib/commons-lang3-3.17.0.jar"/>
-	<classpathentry kind="lib" path="src/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.17.0.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-5.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
